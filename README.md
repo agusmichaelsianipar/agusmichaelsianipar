@@ -1,5 +1,6 @@
 ## Hi 👋
 <img width="300px" align="right" alt="Github" src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/chill%20scene.gif" />
+
 ### My name is Agus Michael Sianipar 
 
 
@@ -7,7 +8,7 @@
 
 
 - 🔭 I’m a freshgraduate looking for job opportunity
-- 🌱 I’m currently learning Golang and MongoDB
+- 🌱 I’m currently learning Golang Django and MongoDB
 - 💬 Ask me about anything I know
 - 📫 Reach me by [mail](mailto:agusmichaelsianipar99@gmail.com)
 - ⚡ Fun fact i am cool 😎
